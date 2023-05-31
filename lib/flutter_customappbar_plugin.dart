@@ -4,6 +4,7 @@ import 'flutter_customappbar_plugin_platform_interface.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+export 'package:flutter_customappbar_plugin/flutter_customappbar_plugin.dart';
 
 class FlutterCustomappbarPlugin {
   Future<String?> getPlatformVersion() {

@@ -1,7 +1,7 @@
 name: flutter_customappbar_plugin
 description: A new Flutter plugin.
-version: 0.0.1
-homepage: https://github.com/cuiboye/flutter_plugin_first
+version: 0.0.2
+homepage: https://github.com/cuiboye/flutter_customappbar_plugin
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
